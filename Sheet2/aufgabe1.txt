@@ -1,0 +1,24 @@
+	N	M
+
+N     (3, 3)   (6, 1)
+
+
+M     (1, 6)   (5, 5)
+
+
+Nash Gleichgewicht: N, N
+
+Dominante Strategie: N, erinnert an das Gefangenendilemma
+
+Die Strafe müsste bei 2 liegen, dadurch würde sich folgendes Spiel ergeben
+
+        N       M
+
+N     (1, 1)   (4, 1)
+
+
+M     (1, 4)   (5, 5)
+
+Wie zu sehen ist, ist dadurch ein abweichen von M schädlich.
+
+ 
